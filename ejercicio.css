@@ -1,0 +1,10 @@
+img {
+    width: 300px;
+}
+
+body {
+    color: lightsalmon;
+    display: grid;
+    place-items: center;
+    padding-top: 10vh;
+}
